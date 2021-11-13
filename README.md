@@ -3,4 +3,4 @@ Este es un ejemplo de como crear un componente de grilla reutilizable y usarlo c
 
 ## Vista
 El resultado es:
-<img src="img/ejemplo31.png" alt="Vista resultante">
+<img src="img/ejemplo31.png" width="100%" title="Vista resultante">
